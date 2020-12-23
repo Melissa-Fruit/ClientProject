@@ -1,0 +1,157 @@
+[02-Oct-2020 07:16:49] NOTICE: fpm is running, pid 6376
+[02-Oct-2020 07:16:49] NOTICE: ready to handle connections
+[02-Oct-2020 09:02:04] NOTICE: fpm is running, pid 4790
+[02-Oct-2020 09:02:04] NOTICE: ready to handle connections
+[02-Oct-2020 09:19:47] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[02-Oct-2020 09:19:47] ERROR: FPM initialization failed
+[02-Oct-2020 09:19:47] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[02-Oct-2020 09:19:47] ERROR: FPM initialization failed
+[02-Oct-2020 09:19:48] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[02-Oct-2020 09:19:48] ERROR: FPM initialization failed
+[02-Oct-2020 09:19:48] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[02-Oct-2020 09:19:48] ERROR: FPM initialization failed
+[02-Oct-2020 09:36:41] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[02-Oct-2020 09:36:41] ERROR: FPM initialization failed
+[02-Oct-2020 09:36:41] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[02-Oct-2020 09:36:41] ERROR: FPM initialization failed
+[02-Oct-2020 09:36:42] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[02-Oct-2020 09:36:42] ERROR: FPM initialization failed
+[02-Oct-2020 09:36:42] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[02-Oct-2020 09:36:42] ERROR: FPM initialization failed
+[02-Oct-2020 11:05:50] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[02-Oct-2020 11:05:50] ERROR: FPM initialization failed
+[02-Oct-2020 11:05:51] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[02-Oct-2020 11:05:51] ERROR: FPM initialization failed
+[02-Oct-2020 11:05:52] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[02-Oct-2020 11:05:52] ERROR: FPM initialization failed
+[02-Oct-2020 11:05:52] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[02-Oct-2020 11:05:52] ERROR: FPM initialization failed
+[05-Oct-2020 11:35:00] NOTICE: fpm is running, pid 13433
+[05-Oct-2020 11:35:00] NOTICE: ready to handle connections
+[05-Oct-2020 16:33:34] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[05-Oct-2020 16:33:34] ERROR: FPM initialization failed
+[05-Oct-2020 16:33:35] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[05-Oct-2020 16:33:35] ERROR: FPM initialization failed
+[05-Oct-2020 16:33:35] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[05-Oct-2020 16:33:35] ERROR: FPM initialization failed
+[05-Oct-2020 16:33:36] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[05-Oct-2020 16:33:36] ERROR: FPM initialization failed
+[07-Oct-2020 15:10:35] NOTICE: fpm is running, pid 23659
+[07-Oct-2020 15:10:35] NOTICE: ready to handle connections
+[08-Oct-2020 08:54:22] NOTICE: fpm is running, pid 3930
+[08-Oct-2020 08:54:22] NOTICE: ready to handle connections
+[08-Oct-2020 13:17:28] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[08-Oct-2020 13:17:28] ERROR: FPM initialization failed
+[08-Oct-2020 13:17:28] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[08-Oct-2020 13:17:28] ERROR: FPM initialization failed
+[08-Oct-2020 13:17:29] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[08-Oct-2020 13:17:29] ERROR: FPM initialization failed
+[08-Oct-2020 13:17:30] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[08-Oct-2020 13:17:30] ERROR: FPM initialization failed
+[09-Oct-2020 10:33:42] NOTICE: fpm is running, pid 11426
+[09-Oct-2020 10:33:42] NOTICE: ready to handle connections
+[09-Oct-2020 11:05:30] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[09-Oct-2020 11:05:30] ERROR: FPM initialization failed
+[09-Oct-2020 11:05:30] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[09-Oct-2020 11:05:30] ERROR: FPM initialization failed
+[09-Oct-2020 11:05:31] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[09-Oct-2020 11:05:31] ERROR: FPM initialization failed
+[09-Oct-2020 11:05:32] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[09-Oct-2020 11:05:32] ERROR: FPM initialization failed
+[09-Oct-2020 11:29:24] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[09-Oct-2020 11:29:24] ERROR: FPM initialization failed
+[09-Oct-2020 11:29:25] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[09-Oct-2020 11:29:25] ERROR: FPM initialization failed
+[09-Oct-2020 11:29:25] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[09-Oct-2020 11:29:25] ERROR: FPM initialization failed
+[09-Oct-2020 11:29:26] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[09-Oct-2020 11:29:26] ERROR: FPM initialization failed
+[09-Oct-2020 15:26:26] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[09-Oct-2020 15:26:26] ERROR: FPM initialization failed
+[09-Oct-2020 15:26:26] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[09-Oct-2020 15:26:26] ERROR: FPM initialization failed
+[09-Oct-2020 15:26:27] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[09-Oct-2020 15:26:27] ERROR: FPM initialization failed
+[09-Oct-2020 15:26:28] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[09-Oct-2020 15:26:28] ERROR: FPM initialization failed
+[09-Oct-2020 15:34:49] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[09-Oct-2020 15:34:49] ERROR: FPM initialization failed
+[09-Oct-2020 15:34:50] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[09-Oct-2020 15:34:50] ERROR: FPM initialization failed
+[09-Oct-2020 15:34:51] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[09-Oct-2020 15:34:51] ERROR: FPM initialization failed
+[09-Oct-2020 15:34:51] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[09-Oct-2020 15:34:51] ERROR: FPM initialization failed
+[16-Oct-2020 11:20:52] NOTICE: fpm is running, pid 9197
+[16-Oct-2020 11:20:52] NOTICE: ready to handle connections
+[16-Oct-2020 14:37:17] NOTICE: fpm is running, pid 5098
+[16-Oct-2020 14:37:17] NOTICE: ready to handle connections
+[16-Oct-2020 14:37:59] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[16-Oct-2020 14:37:59] ERROR: FPM initialization failed
+[16-Oct-2020 14:38:00] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[16-Oct-2020 14:38:00] ERROR: FPM initialization failed
+[16-Oct-2020 14:38:01] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[16-Oct-2020 14:38:01] ERROR: FPM initialization failed
+[16-Oct-2020 14:38:01] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[16-Oct-2020 14:38:01] ERROR: FPM initialization failed
+[16-Oct-2020 14:38:07] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[16-Oct-2020 14:38:07] ERROR: FPM initialization failed
+[16-Oct-2020 14:38:08] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[16-Oct-2020 14:38:08] ERROR: FPM initialization failed
+[16-Oct-2020 14:38:08] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[16-Oct-2020 14:38:08] ERROR: FPM initialization failed
+[16-Oct-2020 14:38:09] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[16-Oct-2020 14:38:09] ERROR: FPM initialization failed
+[27-Oct-2020 09:18:22] NOTICE: fpm is running, pid 6786
+[27-Oct-2020 09:18:22] NOTICE: ready to handle connections
+[28-Oct-2020 14:23:45] NOTICE: fpm is running, pid 23748
+[28-Oct-2020 14:23:45] NOTICE: ready to handle connections
+[06-Nov-2020 09:27:36] NOTICE: fpm is running, pid 9338
+[06-Nov-2020 09:27:36] NOTICE: ready to handle connections
+[17-Nov-2020 09:09:57] NOTICE: fpm is running, pid 10773
+[17-Nov-2020 09:09:57] NOTICE: ready to handle connections
+[19-Nov-2020 10:53:54] NOTICE: fpm is running, pid 12004
+[19-Nov-2020 10:53:54] NOTICE: ready to handle connections
+[19-Nov-2020 17:04:43] NOTICE: Terminating ...
+[23-Nov-2020 13:45:10] NOTICE: fpm is running, pid 1517
+[23-Nov-2020 13:45:10] NOTICE: ready to handle connections
+[23-Nov-2020 17:02:37] NOTICE: Terminating ...
+[24-Nov-2020 09:47:32] NOTICE: fpm is running, pid 15067
+[24-Nov-2020 09:47:32] NOTICE: ready to handle connections
+[24-Nov-2020 10:52:44] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[24-Nov-2020 10:52:44] ERROR: FPM initialization failed
+[24-Nov-2020 10:52:45] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[24-Nov-2020 10:52:45] ERROR: FPM initialization failed
+[24-Nov-2020 10:52:45] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[24-Nov-2020 10:52:45] ERROR: FPM initialization failed
+[24-Nov-2020 10:52:46] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[24-Nov-2020 10:52:46] ERROR: FPM initialization failed
+[27-Nov-2020 15:35:05] NOTICE: fpm is running, pid 32243
+[27-Nov-2020 15:35:05] NOTICE: ready to handle connections
+[30-Nov-2020 10:43:18] NOTICE: fpm is running, pid 3377
+[30-Nov-2020 10:43:18] NOTICE: ready to handle connections
+[01-Dec-2020 10:59:52] NOTICE: fpm is running, pid 10660
+[01-Dec-2020 10:59:52] NOTICE: ready to handle connections
+[01-Dec-2020 13:01:52] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[01-Dec-2020 13:01:52] ERROR: FPM initialization failed
+[01-Dec-2020 13:01:53] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[01-Dec-2020 13:01:53] ERROR: FPM initialization failed
+[01-Dec-2020 13:01:54] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[01-Dec-2020 13:01:54] ERROR: FPM initialization failed
+[01-Dec-2020 13:01:54] ERROR: Another FPM instance seems to already listen on /home/user/.config/Local/run/-5YYOy1yY/php/php-fpm.socket
+[01-Dec-2020 13:01:54] ERROR: FPM initialization failed
+[03-Dec-2020 14:04:33] NOTICE: fpm is running, pid 27060
+[03-Dec-2020 14:04:33] NOTICE: ready to handle connections
+[04-Dec-2020 07:03:09] NOTICE: fpm is running, pid 5491
+[04-Dec-2020 07:03:09] NOTICE: ready to handle connections
+[09-Dec-2020 09:32:22] NOTICE: fpm is running, pid 10553
+[09-Dec-2020 09:32:22] NOTICE: ready to handle connections
+[11-Dec-2020 09:51:50] NOTICE: fpm is running, pid 12895
+[11-Dec-2020 09:51:50] NOTICE: ready to handle connections
+[11-Dec-2020 17:00:57] NOTICE: Terminating ...
+[16-Dec-2020 16:06:04] NOTICE: fpm is running, pid 27970
+[16-Dec-2020 16:06:04] NOTICE: ready to handle connections
+[17-Dec-2020 11:08:05] NOTICE: fpm is running, pid 16238
+[17-Dec-2020 11:08:05] NOTICE: ready to handle connections
+[23-Dec-2020 15:14:02] NOTICE: fpm is running, pid 20701
+[23-Dec-2020 15:14:02] NOTICE: ready to handle connections
